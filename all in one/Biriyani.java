@@ -1,0 +1,7 @@
+class Biriyani {
+	public static void main(String veg[]){
+
+	System.out.println("The traditional process of Chicken Biriyani starts");
+	System.out.println("The raw or uncooked Biriyani");
+	}
+}
